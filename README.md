@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=32127AFF&height=67&duration=2500&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
   
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, there! 
@@ -25,5 +25,5 @@ I am Pedro Henrique, System Analyses and Development student at the Federal Univ
 ##
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=pHenrymelo&data=repositories,stars,commits&theme=viridescent)](https://github.com/pHenrymelo)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=pHenrymelo&data=repositories,stars,commits&theme=darkmode)](https://github.com/pHenrymelo)
 
