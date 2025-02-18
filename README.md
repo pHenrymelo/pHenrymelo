@@ -11,7 +11,7 @@ I am Pedro Henrique, System Analyses and Development student at the Federal Univ
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,vue,react,python,flask,tailwind,postgresql,github,git,html,css" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,vue,react,next,tailwind,postgresql,prisma,jest,docker,git,github" />
   </a>
 </p>
 
