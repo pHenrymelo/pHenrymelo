@@ -4,7 +4,7 @@
   
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, there! 
 
-I am Pedro Henrique, System Analyses and Development student at the Federal University of Ceará and Web developer with versatile skills to work with frontend and backend. 
+I am Pedro Melo, System Analyses and Development student at the Federal University of Ceará and Web developer at PrimeTech, with versatile skills to work with frontend and backend. 
 
 #
 <h3 style="display: flex; justify-content: center; font-family: sans-serif"> ⚡ SKILLS</h3>
