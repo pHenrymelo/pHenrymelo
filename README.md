@@ -11,8 +11,8 @@ I am Pedro Melo, System Analyses and Development student at the Federal Universi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,vue,react,next,tailwind,postgresql,prisma,jest,docker,git,github" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,java,spring,react,tailwind,postgresql,docker,git,github" />
+  </a
 </p>
 
 ##
