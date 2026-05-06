@@ -111,7 +111,9 @@ MVP developed in partnership with Huawei for monitoring land-grabbing points and
 ## 📊 GitHub Stats
 
 <div align="center">
-    ![Kaiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=pHenrymelo&show_icons=true&theme=tokyonight)
+  
+  [![Kaiser's GitHub stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=pHenrymelo&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=pHenrymelo&show_icons=true&theme=tokyonight)
+  
 </div>
 
 ---
